@@ -91,6 +91,7 @@ export default function App() {
         </Layout>
         <ScrollRestoration />
         <Scripts />
+        <script src="https://config.gorgias.chat/bundle-loader/01GYCCQV7ZZN9NBVRBND6RA25H"/>
       </body>
     </html>
   );
