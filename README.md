@@ -1,45 +1,11 @@
-# Hydrogen template: Gorgias Demo Store
+# Gorgias Hydrogen demo store
 
-This is a demo store
+The demo store can be accessed [here](https://hydrogen-demo-bfb875895056b8a5e24b.o2.myshopify.dev).
 
-Hydrogen is Shopify’s stack for headless commerce. Hydrogen is designed to dovetail with [Remix](https://remix.run/), Shopify’s full stack web framework. This template contains a **full-featured setup** of components, queries and tooling to get started with Hydrogen.
+Complete instructions on how to get Gorgias running on Hydrogen: [https://docs.gorgias.com/en-US/shopify-hydrogen-96240](https://docs.gorgias.com/en-US/shopify-hydrogen-96240).
 
-[Check out Hydrogen docs](https://shopify.dev/custom-storefronts/hydrogen)
-[Get familiar with Remix](https://remix.run/docs/en/v1)
 
-## What's included
+You can read more about the underlying technologies here:
 
-- Remix
-- Hydrogen
-- Oxygen
-- Shopify CLI
-- ESLint
-- Prettier
-- GraphQL generator
-- TypeScript and JavaScript flavors
-- Tailwind CSS (via PostCSS)
-- Full-featured setup of components and routes
-
-## Getting started
-
-**Requirements:**
-
-- Node.js version 16.14.0 or higher
-
-```bash
-npm create @shopify/hydrogen@latest -- --template demo-store
-```
-
-Remember to update `.env` with your shop's domain and Storefront API token!
-
-## Building for production
-
-```bash
-npm run build
-```
-
-## Local development
-
-```bash
-npm run dev
-```
+  - [Hydrogen](https://shopify.dev/custom-storefronts/hydrogen)
+  - [Remix](https://remix.run/docs/en/v1)
